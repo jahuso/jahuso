@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @jahuso
-- 👀 I’m interested software development new technologies.
-- 🌱 I’m currently learning Machine learning hehe.
-- 💞️ I’m looking to collaborate on Machine learning projects
-- 📫 How to reach me jahuso at gmail
+### Hi there, I'm @jahuso 👋
 
-<!---
-jahuso/jahuso is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a software developer passionate about building new things and exploring emerging technologies.
+
+- 🔭 **My Focus:** I'm currently diving deep into the world of **Artificial Intelligence**
+- 🌱 **I’m Learning:** Right now, I'm focused on learning AI gen technologies.
+- 💞️ **Collaboration:** I’m looking to collaborate on open-source AI projects, especially for beginners.
+- 📫 **Contact Me:** You can reach me at [jahuso@gmail.com](mailto:jahuso@gmail.com).
